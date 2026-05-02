@@ -1,0 +1,7 @@
+## Interface: 20400
+## Title: TheoSwingTimer
+## Notes: Lightweight combat-only white swing timer for TBC 20400
+## Author: Theogreed + ChatGPT
+## Version: 0.7.0-tbc-compat
+## SavedVariables: TheoSwingTimerDB
+TheoSwingTimer.lua
